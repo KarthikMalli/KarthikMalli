@@ -1,20 +1,15 @@
 # Hi, I’m Karthik!¹
 
-I'm deeply interested in the many ways that language and technology interface with one another, and with the people that use them. 
+I'm deeply interested in the many ways that language and technology interface with one another, and with the people that use them.
 
-Language technology
-Representation of language
-Interface between text and users
-Sociocultural information, fuzzy and data-fied
+My Masters coursework included language and society in India, sociocultural data visualization, cultural analytics, and textual technology.
 
-¹ - Pronounced [käːɾ.t̪ɪk].
+¹ Pronounced [käːɾ.t̪ɪk].
 ---
 
 ## 🚀 About Me
 - 🎓 MA, South Asian Studies + Graduate Certificate, Digital Textual Studies | University of Washington (2024–2026)  
-- 💻 Experienced in font  
-- 🌐 Exploring **AI, ML pipelines, predictive analytics, and data engineering**  
-- 🔍 Interested in creating data-driven sustainable solutions for businesses and ensuring safety and accountability of AI solutions. 
+- 💻 Experienced in sociolinguistic analysis, typographic research, digital humanities, and longform writing.
 
 ---
 
